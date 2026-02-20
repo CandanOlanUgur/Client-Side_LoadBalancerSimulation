@@ -16,3 +16,9 @@ Sistem, gerçek dünya senaryolarını taklit etmek amacıyla durağan olmayan (
 * Softmax Action Selection: Sunucuların geçmiş performans verilerine dayanarak olasılıksal bir seçim mekanizması sunar.
 * Numerical Stability: Üstel fonksiyon hesaplamalarında oluşabilecek "overflow" (taşma) sorunlarını engellemek için Max-Subtraction tekniği uygulanmıştır.
 * Reward Modeling: Gecikme süreleri (latency), $1/latency$ formülüyle ödüle (reward) dönüştürülerek maksimizasyon problemi çözülmüştür.
+
+
+
+&nbsp;
+-
+**Eğitim Amaçlıdır**
