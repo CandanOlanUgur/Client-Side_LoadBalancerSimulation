@@ -5,7 +5,7 @@ Softmax Algoritması kullanan İstemci taraflı Yük Dengeleyeci Simülasyonu
 &nbsp;
 
  
-📌 Proje Hakkında
+📌 
 Bu proje, dağıtık sistemlerde (distributed systems) sunucu yükünü optimize etmek amacıyla tasarlanmış istemci taraflı (client-side) bir yük dengeleyici simülasyonudur. Klasik Round-Robin veya Random seçim algoritmaları yerine, pekiştirmeli öğrenme (reinforcement learning) temelli Softmax Action Selection algoritması kullanılmıştır.
 
 Sistem, gerçek dünya senaryolarını taklit etmek amacıyla durağan olmayan (non-stationary) ve gürültülü (noisy) sunucu performanslarını simüle eder.
